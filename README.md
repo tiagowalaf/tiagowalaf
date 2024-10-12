@@ -1,5 +1,3 @@
-# Olá! Eu sou Tiago Walaf 👋
-
 ## Sobre mim:
 - 💻 Sou um desenvolvedor apaixonado por tecnologia e código.
 
