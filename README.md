@@ -2,9 +2,6 @@
 
 ## Sobre mim:
 - 💻 Sou um desenvolvedor apaixonado por tecnologia e código.
-- 🌱 Atualmente estou aprendendo [tecnologia que está aprendendo].
-- 🎯 Meus objetivos são [seus objetivos].
-- 📫 Você pode me encontrar em:
 
 ## Tecnologias:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
