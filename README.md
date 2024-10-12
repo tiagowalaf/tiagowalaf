@@ -14,6 +14,5 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Conecte-se comigo:
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![X]([https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/seu_usuario](https://x.com/tiago_walaf?t=oDh-wzLErVXJ1h2e12zvXg&s=09))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
