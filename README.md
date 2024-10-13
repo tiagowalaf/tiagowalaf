@@ -1,5 +1,5 @@
 ## Sobre mim:
-- 💻 Sou um desenvolvedor que preza pela qualidade e estou sempre em busca de maneiras de contribuir com o que sei.
+- 💻 Desenvolvedor que preza pela qualidade e estou sempre em busca de maneiras de contribuir com o que sei.
 
 ## Tecnologias:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
