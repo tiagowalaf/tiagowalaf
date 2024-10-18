@@ -9,7 +9,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Conecte-se comigo !!
-
-![X icon](https://img.shields.io/static/v1?label=tiago_walaf&message=X&color=red&style=flat-square)
-
-![X icon](https://img.shields.io/static/v1?label=tiago_walaf&message=X&color=red&style=flat-square)
