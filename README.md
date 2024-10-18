@@ -10,6 +10,5 @@
 
 ## Conecte-se comigo !!
 
-![X icon](https://img.shields.io/badge/tiago_walaf-X-red?style=flat-square&logoColor=white)
-
+![X icon](https://img.shields.io/static/v1?label=tiago_walaf&message=X&color=red&style=flat-square)
 
