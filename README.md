@@ -8,6 +8,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagowlf)
+## Conecte-se comigo !!
+
+![X icon](https://img.shields.io/badge/tiago_walaf-X-red?style=flat-square&logoColor=white)
+
 
