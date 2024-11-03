@@ -1,4 +1,10 @@
 
+
+![Python Futurista](https://4kwallpapers.com/images/walls/thumbs_2t/15994.png)
+
+
+
+
 ## Tecnologias:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
