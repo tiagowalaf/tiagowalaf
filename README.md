@@ -1,3 +1,10 @@
+
+[![Assista ao vídeo](https://img.youtube.com/vi/rfscVS0vtbw/0.jpg)](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+
+
+
+
 ## Sobre mim:
 - 💻 Desenvolvedor que preza pela qualidade e estou sempre em busca de maneiras de contribuir com o que sei.
 ## Tecnologias:
