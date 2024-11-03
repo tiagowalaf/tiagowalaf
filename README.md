@@ -1,10 +1,4 @@
 
-
-
-
-
-## Sobre mim:
-- 💻 Desenvolvedor que preza pela qualidade e estou sempre em busca de maneiras de contribuir com o que sei.
 ## Tecnologias:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
