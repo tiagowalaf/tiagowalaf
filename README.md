@@ -1,6 +1,4 @@
 
-[![Assista ao vídeo](https://img.youtube.com/vi/rfscVS0vtbw/0.jpg)](https://www.youtube.com/watch?v=rfscVS0vtbw)
-
 
 
 
