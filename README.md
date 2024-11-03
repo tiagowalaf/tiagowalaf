@@ -1,4 +1,5 @@
 
+[Veja o vídeo no Pexels](https://www.pexels.com/video/digital-projection-of-a-planet-geometrical-symmetry-with-relation-to-outer-space-3141208/)
 
 ![Python Futurista](https://4kwallpapers.com/images/walls/thumbs_2t/15994.png)
 
